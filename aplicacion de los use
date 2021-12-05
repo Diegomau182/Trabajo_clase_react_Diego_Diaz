@@ -1,0 +1,8 @@
+useEffect
+uso del useEffect  mando preguntar si  cada vez cuando se modifique la data si hay internet
+en el caso que si hay mando a imprimir tenemos internet en la consola del navegador 
+en el caso contrario mando una alerta que le diga que no hay 
+useContext
+cambio de los temas blanco y gris
+useRef
+uso de la referencia para buscar un objeto por el nombre dentro del arreglo

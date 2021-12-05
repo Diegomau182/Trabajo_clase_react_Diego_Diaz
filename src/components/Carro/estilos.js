@@ -3,7 +3,7 @@ const styles = {
         position: 'relative'
     },
     carro: {
-        backgroundColor: '#118002',
+        backgroundColor: '#bfc928',
         border: 'none',
         borderRadius: 5,
         color: '#fff',
@@ -56,9 +56,4 @@ export default styles
  * 3- Investigar el hook useRef
  * 4- Investigar el hook useContext
  * 5- Aplicar los tres hooks anteriores al proyecto.
- */
-
-/**
- * Django Rest Framework
- * .Net Framework / .Net Core
  */

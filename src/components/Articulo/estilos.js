@@ -19,7 +19,6 @@ const styles = {
             backgroundRepeat: 'no-repeat',
             backgroundPosition: 'center',
             backgroundSize: 'contain',
-            // border: '1px solid #000',
             height: 250
         }
     },
